@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>PROVA 2</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,13 +81,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Alessandro Di Crescenzo
+                    PROVA 2
                 </div>
 
-                <div class="links">
-                    <a href="prova-1">Prova 1</a>
-                    <a href="prova-2">Prova 1</a>
-                </div>
             </div>
         </div>
     </body>
