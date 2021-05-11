@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="prova-1">Prova 1</a>
-                    <a href="prova-2">Prova 1</a>
+                    <a href="prova-2">Prova 2</a>
                 </div>
             </div>
         </div>
